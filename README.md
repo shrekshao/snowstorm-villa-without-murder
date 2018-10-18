@@ -18,24 +18,58 @@
 
 ## 现实映射
 
-如果这一切只能存在于小说中那实在是太可惜了。不过事实上这很可能变为现实。如果你对我下面列出的行程样例感兴趣，请发送邮件给我。你当然可以在邮件中推销自己，或附上简历，或暗中联系进行某些交易。我将~~公正地~~从中筛选出最符合这场度假的人选组合。
+如果这一切只能存在于小说中那实在是太可惜了。不过事实上这很可能变为现实。事实上，这就是一个开源的度假计划。
+
+下面是一个活动企划样例。你可以发布征集令，并从愿意参加的人选中~~公正地~~从中筛选出最符合这场度假的组合。
 
 ![](img/1.jpg)
+
 Image from reddit/CozyPlaces
 
 ![](img/2.jpg)
+
 Image from airbnb
 
 * 地点：[Big Bear Lake, CA 大熊湖](https://www.google.com/maps/place/Big+Bear+Lake,+CA)周边某cabin或house
 * 2018圣诞假期期间（价格是淡季数倍）三夜
+* 5-8 人为宜
 * 携带道具
     - 聚餐/BBQ食材和饮料 （景区物价较贵）
     - 滑雪远足衣物装备（摄氏零下温度）
     - 各类桌游
     - 游戏PC，Console，手柄，VR等
-* 活动
-    - 白天：滑雪，绕湖自驾，登山trial
-    - 晚上：BBQ，桌游，游戏，VR，聊天
+* 活动样例
+    - 白天：
+        - 滑雪
+        - 绕湖自驾
+        - 登山trails
+    - 晚上：
+        - BBQ
+        - 桌游
+            + 老套撕逼氛围但毕竟相当低成本的狼人
+            + 谋杀之谜（剧本杀）(e.g. Death wears white)
+            + Who is Hitler
+            + Codenames
+            + TCG (万智牌，游戏王，Pokemon，阵面对决)
+            + etc
+        - Party Game
+            + Overcooked
+            + Battle Block Threater
+            + Rampage Knights
+            + Road Redemption （暴力摩托精神续作）
+            + Streets of Rogue
+            + Speed runner
+            + etc
+        - VR
+            + Beat Saber
+            + Pavlov (VR CS)
+            + Keep calm and no one explode
+            + Rec Room
+            + Super hot VR
+            + Gorn （不砸坏家具算我输）
+            + etc
+        - 聊天
 
 ![](img/3.jpg)
+
 Image from youtube
